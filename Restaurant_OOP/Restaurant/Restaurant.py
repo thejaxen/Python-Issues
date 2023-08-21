@@ -1,4 +1,4 @@
-class Restaurant :
+class Restaurant : 
     def __init__(self,restaurant_name,cuisine_type,number_served):
         self.restaurant_name = restaurant_name
         self.cuisine_type = cuisine_type
